@@ -20,36 +20,36 @@ Execution of files in full_run folder (contains code and data for full length ex
 6. Place the contents of code folder (by unzipping code.zip), data_1 folder (by unzipping data_1.zip) and data_2 folder (by unzipping data_2.zip) and data_3 folder in one single folder 
 7. Execute the following files in order-
 
-  i. fv_a.py
+      i. fv_a.py
   
-  ii. fv_b.py
+      ii. fv_b.py
   
-  iii. fv_c.py
+      iii. fv_c.py
   
-  iv. merged_embeddings.py
+      iv. merged_embeddings.py
   
-   v. mir_go.py
+       v. mir_go.py
    
-  vi. mir_mir.py
+      vi. mir_mir.py
   
-  vii. join_derived.py
+      vii. join_derived.py
   
-  viii. positive_ID.py
+      viii. positive_ID.py
   
-  ix. hgt_negative_sampling.py
+      ix. hgt_negative_sampling.py
   
-  x. blind_data_formation.py
+      x. blind_data_formation.py
   
-  xi. lightGBM.py
+      xi. lightGBM.py
   
-  xii. prediction.py
+      xii. prediction.py
   
-  xiii. clustering_bp.py
+      xiii. clustering_bp.py
   
-  xiv. clustering_mf.py
+      xiv. clustering_mf.py
   
-  xv. pcos_go.py
+      xv. pcos_go.py
   
-  xvi. pcos_pathway.py
+      xvi. pcos_pathway.py
   
 
