@@ -2,13 +2,13 @@
 
 Here we predict multifunctionality of microRNA-155 (focusing on 5p arm) by dint of microRNA-GO association prediction
 
-Instructions for execution
+Execution of quick_run folder contents (contains code and data for predictions on functionality of microRNA-155 5p arm)
 
-1. Download all files and place them in one folder
-
-2. Set up the environment using environment.yml
-
-3. execute lightGBM.py
+1. Clone the github repository
+2. Move inside quick_run folder
+3. Download all files and place them in one folder
+4. Set up the environment using environment.yml
+5. execute lightGBM.py
 
 Execution of files in full_run folder (contains code and data for full length execution)
 
