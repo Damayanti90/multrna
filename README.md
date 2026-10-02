@@ -14,10 +14,11 @@ Execution of files in full_run folder (contains code and data for full length ex
 
 1. Clone the github repository
 2. Set up the environment using environment.yml
-3. Unzip code.zip, data_1.zip and data_2.zip
-4. Combine and unrar contents of data_3 folder
-5. Place the contents of code folder (by unzipping code.zip), data_1 folder (by unzipping data_1.zip) and data_2 folder (by unzipping data_2.zip) and data_3 folder in one single folder 
-6. Execute the following files in order-
+3. Move inside full_run folder
+4. Unzip code.zip, data_1.zip and data_2.zip
+5. Combine and unrar contents of data_3 folder
+6. Place the contents of code folder (by unzipping code.zip), data_1 folder (by unzipping data_1.zip) and data_2 folder (by unzipping data_2.zip) and data_3 folder in one single folder 
+7. Execute the following files in order-
 
   i. fv_a.py
   
@@ -52,5 +53,3 @@ Execution of files in full_run folder (contains code and data for full length ex
   xvi. pcos_pathway.py
   
 
-pcos_go.py
-pcos_pathway.py
